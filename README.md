@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3 align="center">Hi Johnserf-Seed there 👋</h3>
+
+<p align="center">
+<a href="https://17shiyan2.cn">Blog</a>&nbsp;•&nbsp;
+<a href="https://github.com/Johnserf-Seed">GitHub</a>&nbsp;•&nbsp;
+<a href="https://gitee.com/johnserfseed">Gitee</a>&nbsp;•&nbsp;
+</p>
 
 ## Github Stats
 
