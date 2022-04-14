@@ -80,8 +80,10 @@
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
-<!-- profile-3d-contrib 
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div> -->
+<!-- profile-3d-contrib -->
+<div align="center" >
+  <img src="https://cdn.jsdelivr.net/gh/Johnserf-Seed/Johnserf-Seed/profile-3d-contrib/profile-season-animate.svg" width="100%"/>
+</div>
 
 # 🚀 Actions 🚀
 
@@ -123,7 +125,7 @@
 
 <!-- metrics 基础资料 -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/johnserf-seed/johnserf-seed/media/base_metrics.svg" alt="base metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/Johnserf-Seed/Johnserf-Seed/github-metrics.svg" alt="base metrics" width="75%"/>
 </div>
 
 <!-- just img -->
