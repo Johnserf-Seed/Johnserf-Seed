@@ -1,47 +1,30 @@
-# This is a basic workflow to help you get started with Actions
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-name: CI
+name: Generate Snake
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]- uses: Platane/snk@v2.0.0-rc.1
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-  pull_request:
-    branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: Platane/snk@v2.0.0-rc.1
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
+        id: snake-gif
         with:
-          # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
+          gif_out_path: ./media/github-user-contribution.gif
+          svg_out_path: ./media/github-user-contribution.svg
 
-          # list of files to generate.
-          # one file per line. Each output can be customized with options as query string.
-          outputs: |
-            media/github-user-contribution.svg
-            media/github-user-contribution.svg?palette=github-dark
-            media/github-user-contribution-ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: ':rocket: Update'
