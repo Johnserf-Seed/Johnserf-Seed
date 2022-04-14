@@ -10,18 +10,18 @@
   <p align="center">
     <a href="https://langyue.cc">Blog</a>&nbsp;•&nbsp;
     <a href="https://github.com/Johnserf-Seed">GitHub</a>&nbsp;•&nbsp;
-    <a href="https://gitee.com/johnserfseed">Gitee</a>
+    <a href="https://gitee.com/johnserfseed">Gitee</a>&nbsp;•&nbsp;
+    <!-- 访客数统计徽标 -->
+    <img src="https://visitor-badge.glitch.me/badge?page_id=johnserf-seed.visitor" alt="访客统计" />
   </p>
 
-  <!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=johnserf-seed.visitor" alt="访客统计" />
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/johnserf-seed/johnserf-seed/media/github-user-contribution.svg" /></div>
 
 
-#  👨‍💻 I want to say 🙋‍♂️
+#  👨‍💻 I Want To Say 🙋‍♂️
 
 <p>✍️&nbsp;&nbsp;热爱计算机科学和IT互联网事业!</p>
 <p>&emsp;&emsp;Strive to improve my coding level on the way of learning in the future.</p>
@@ -30,9 +30,17 @@
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
 <a href="https://github.com/johnserf-seed/tiktokdownload">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=tiktokdownload&show_owner=false&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=tiktokdownload&show_owner=false&theme=light&hide_border=false" />
+  </a>
 <a href="https://github.com/johnserf-seed/10-tips-for-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=10-tips-for-python&show_owner=false&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=10-tips-for-python&show_owner=false&hide_border=false" />
+  </a>
+ <a href="https://github.com/johnserf-seed/QianMing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=QianMing&show_owner=false&hide_border=false" />
+  </a>
+ <a href="https://github.com/johnserf-seed/Stop-Ask-Questions-The-Stupid-Ways">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=Stop-Ask-Questions-The-Stupid-Ways&show_owner=false&hide_border=false" />
+  </a>
 </div>
 
 💪 正在学习: 
@@ -102,12 +110,16 @@
 <br>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=johnserf-seed&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johnserf-seed&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
 <br>
 
-<!-- Dynamic Quotes
-<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
- -->
+<!-- Dynamic Quotes -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+</div>
+
  
 <br>
 
