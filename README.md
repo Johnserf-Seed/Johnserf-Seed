@@ -35,11 +35,11 @@
 <a href="https://github.com/johnserf-seed/10-tips-for-python">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=10-tips-for-python&show_owner=false&hide_border=false" />
   </a>
- <a href="https://github.com/johnserf-seed/QianMing">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=QianMing&show_owner=false&hide_border=false" />
+ <a href="https://github.com/Johnserf-Seed/TikTokWeb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=TikTokWeb&show_owner=false&hide_border=false" />
   </a>
- <a href="https://github.com/johnserf-seed/Stop-Ask-Questions-The-Stupid-Ways">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=Stop-Ask-Questions-The-Stupid-Ways&show_owner=false&hide_border=false" />
+ <a href="https://github.com/Johnserf-Seed/TikTokPlugin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=TikTokPlugin&show_owner=false&hide_border=false" />
   </a>
 </div>
 
