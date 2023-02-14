@@ -135,18 +135,6 @@
 
 # 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 💯
 
-<!-- wakatime 统计 -->
-<table align="center">
-  <tr>
-    <td valign="top">  
-    <!--START_SECTION:waka-->
-
- Last Updated on 14/02/2023 01:22:07 UTC
-<!--END_SECTION:waka-->
-    </td>
-  </tr>
-</table>
-
 <!-- metrics 基础资料 -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/Johnserf-Seed/Johnserf-Seed/github-metrics.svg" alt="base metrics" width="75%"/>
