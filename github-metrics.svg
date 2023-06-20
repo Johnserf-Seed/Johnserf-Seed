@@ -2433,7 +2433,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 12.5k out of 409m repositories</span>
+                                    <span class="gh">ranked 11.8k out of 409m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 750 times</div>
                             </div>
@@ -2634,7 +2634,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 42.3k out of 118m users</span>
+                                    <span class="gh">ranked 42.4k out of 118m users</span>
                                 </div>
                                 <div class="text">Followed by 189 users</div>
                             </div>
@@ -2892,7 +2892,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2023, 12:08:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jun 2023, 13:07:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
