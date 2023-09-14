@@ -12,13 +12,14 @@
     <a href="https://github.com/Johnserf-Seed">GitHub</a>&nbsp;•&nbsp;
     <a href="https://gitee.com/johnserfseed">Gitee</a>&nbsp;•&nbsp;
     <!-- 访客数统计徽标 -->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=johnserf-seed.visitor" alt="访客统计" />
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjohnserf-seed%2Fjohnserf-seed.json%3Fcolor%3Dblue" alt="访客统计" />
   </p>
 
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/johnserf-seed/johnserf-seed/media/github-user-contribution.svg" /></div>
+<!-- https://cdn.jsdelivr.net/gh/johnserf-seed/johnserf-seed/ -->
+<div align="center"><img src="https://raw.githubusercontent.com/Johnserf-Seed/Johnserf-Seed/output/github-contribution-grid-snake.svg" /></div>
 
 
 #  👨‍💻 I Want To Say 🙋‍♂️
