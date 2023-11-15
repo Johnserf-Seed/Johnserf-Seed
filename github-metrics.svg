@@ -2368,7 +2368,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     inspirer
-                                    <span class="gh">ranked 10.3k out of 54.2m repositories</span>
+                                    <span class="gh">ranked 10.3k out of 63.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 925 times</div>
                             </div>
@@ -2582,7 +2582,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 9.86k out of 54.2m repositories</span>
+                                    <span class="gh">ranked 9.86k out of 63.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4142 stars</div>
                             </div>
@@ -2634,7 +2634,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 31.5k out of 125m users</span>
+                                    <span class="gh">ranked 29.6k out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 258 users</div>
                             </div>
@@ -2960,7 +2960,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2023, 08:32:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Nov 2023, 09:47:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
