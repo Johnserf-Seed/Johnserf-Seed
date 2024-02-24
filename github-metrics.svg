@@ -2383,7 +2383,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 9.16k out of 79.8m repositories</span>
+                                    <span class="gh">ranked 9.16k out of 76.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1040 times</div>
                             </div>
@@ -2557,7 +2557,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 8.57k out of 79.8m repositories</span>
+                                    <span class="gh">ranked 8.57k out of 76.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 4860 stars</div>
                             </div>
@@ -2597,7 +2597,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 770k out of 130m users</span>
+                                    <span class="gh">ranked 770k out of 131m users</span>
                                 </div>
                                 <div class="text">Published 46 public repositories</div>
                             </div>
@@ -2649,7 +2649,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 28.8k out of 130m users</span>
+                                    <span class="gh">ranked 28.8k out of 131m users</span>
                                 </div>
                                 <div class="text">Followed by 291 users</div>
                             </div>
@@ -2975,7 +2975,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Feb 2024, 04:06:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Feb 2024, 05:04:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
