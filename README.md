@@ -33,8 +33,8 @@
 <a href="https://github.com/johnserf-seed/tiktokdownload">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=tiktokdownload&show_owner=false&theme=light&hide_border=false" />
   </a>
-<a href="https://github.com/johnserf-seed/10-tips-for-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=10-tips-for-python&show_owner=false&hide_border=false" />
+<a href="https://github.com/johnserf-seed/f2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=f2&show_owner=false&hide_border=false" />
   </a>
  <a href="https://github.com/Johnserf-Seed/TikTokWeb">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnserf-seed&repo=TikTokWeb&show_owner=false&hide_border=false" />
