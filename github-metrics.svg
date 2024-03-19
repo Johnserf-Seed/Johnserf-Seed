@@ -2363,7 +2363,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 8.80k out of 80m repositories</span>
+                                    <span class="gh">ranked 8.80k out of 89.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1072 times</div>
                             </div>
@@ -2501,7 +2501,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 8.20k out of 80m repositories</span>
+                                    <span class="gh">ranked 8.20k out of 89.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5085 stars</div>
                             </div>
@@ -2955,7 +2955,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Mar 2024, 09:39:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Mar 2024, 10:14:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
