@@ -2575,7 +2575,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 665k out of 146m users</span>
+                                    <span class="gh">ranked 665k out of 143m users</span>
                                 </div>
                                 <div class="text">Published 53 public repositories</div>
                             </div>
@@ -2627,7 +2627,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 24.1k out of 146m users</span>
+                                    <span class="gh">ranked 24.1k out of 143m users</span>
                                 </div>
                                 <div class="text">Followed by 375 users</div>
                             </div>
@@ -2953,7 +2953,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Oct 2024, 03:05:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2024, 04:08:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
