@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2367,7 +2367,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 7.48k out of 224m repositories</span>
+                                    <span class="gh">ranked 7.48k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1291 times</div>
                             </div>
@@ -2472,7 +2472,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.50k out of 224m repositories</span>
+                                    <span class="gh">ranked 6.50k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6806 stars</div>
                             </div>
@@ -2581,7 +2581,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 682k out of 143m users</span>
+                                    <span class="gh">ranked 682k out of 150m users</span>
                                 </div>
                                 <div class="text">Published 53 public repositories</div>
                             </div>
@@ -2633,7 +2633,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 23.7k out of 143m users</span>
+                                    <span class="gh">ranked 23.7k out of 150m users</span>
                                 </div>
                                 <div class="text">Followed by 392 users</div>
                             </div>
@@ -2959,7 +2959,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 12:12:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 13:10:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
