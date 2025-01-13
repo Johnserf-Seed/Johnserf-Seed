@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -243,7 +243,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~5.89
+                            Average per day at ~5.87
                         </div>
                     </section>
                 </div>
@@ -2224,6 +2224,13 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                         </g>
+                        <g transform="translate(90.1, 53)">
+                            <g transform="translate(0, 6)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
+                        </g>
                     </g>
                 </svg>
             </section>
@@ -2272,7 +2279,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAwj/xAAuEAABAwMCBAMIAwAAAAAAAAABAgMEAAURBiESEzFBB1KhFCIjMjNhcYFRkbH/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUC/8QAHhEAAQQDAAMAAAAAAAAAAAAAAQACAwQFERIiQfD/2gAMAwEAAhEDEQA/AOUq2PQrMi6yABD4SsqB+QfcUM1BfJERTZ9pZitq+mlKQ4tf57fxVd03a3dVWw2N5wNxG3G3XSU542wsHg/ZGPwTS9Xh/o9mWh6VZ4Ul9JzzHmkH0xj0pq5kpYnmM/BK1qjJGh4XmudddTQLdAucyEym3yR8NxTZRzNyPNtkDIPTfvilVqfFyt7EuOlQQ6nJHlPcf3mqH4nuQrm5yXLVHkwA0W+YtsYCtuDHfb0zQWyW+NBtceMwnhaQPdClZPXJ9c0bHXXS76KHerNYByq14UwizEmTVqGHSG0jvt1/2t+9JaLLhyjcdVbip1CnybPp+4TILykuNlGEndB69RRvWesLtIt6k8xDQURnlgpzsPvUfKeVh21Tx8WoW697Whqx6TLcdZbcbkhA35R2b/VElXCTACWOHiwM5xQqZdrhab207CmPJW4eBRKs5FaE+Q89LdW44oqJ65rFUuYNgpi5V4dyV//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcFAwj/xAAuEAABAwMCBAMIAwAAAAAAAAABAgMEAAURBiESEzFBB1KhFCIjMjNhcYFRkbH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAX/xAAeEQABBAMAAwAAAAAAAAAAAAABAAIDBAUREiIjQf/aAAwDAQACEQMRAD8A5SrY9CsyLrIAEPhKyoH5B9xQzUF8kRFNn2lmK2r6aUpDi1/nt/FV3Tdrd1VbDY3nA3EbcbddJTnjbCweD9kY/BNL1eH+j2ZaHpVmhSX0nPMeaQfTGPSqreSkieYypa1JkjQ8LzZOuupoFugXOZCZTb5I+G4pso5m5Hm2yBkHpv3xSm1Pi5W9iXHSoIdTkjynuP7zVD8T3IVzc5LlqjyYAaLfMW2MBW3Bjvt6ZoLZLfGg2uPGYTwtIHuhSsnrk+uaox910u+kV2s1gHKrXhTCLMSZNWoYdIbSO+3X/a370losuHKNx1VuKnUKfJs+n7hMgvKS42UYSd0Hr1FG9Z6wu0i3qTzENBRGeWCnOw+9YuU8rDtrUx8foa4fdrQ1Y9JluOstuNyQgb8o7N/qiSrhJgBLHDxYGc4oVMu1wtN7adhTHkrcPAolWcitCfIeelurccUVE9c0dZ5YNhLeqcEAlf/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACZ0lEQVR4nLWW30uTURjH/Qe0MJAoiFxFoaVBV15EeBNdZBl0aRERFETTV/uh7yynKUi2KNqGNy4qiybk1kVRFK2gJLuZRCw1dNVgczhrRY5Wfd8n3nrxvGc7e9/p6OG5Os/5fjjPcx6ec4roP1iRcfjLPPmD1HNfafKieQgXHikP39J8eqnQ0TAdGECphGJrpq88ieO3MTmzGGgyRYevC1gZvrwRsg/pX3lAwwna1m1OXPBdV5BMGULjX6miQ6Dceh71bux1YbNdEK11IPUzB1Qh2uPidq+Q1AQ/znGCyThJXjV3/c4mL8TQwVek31dpx5tIzqsYmSKLjeOOTGVBAarqZDssMiKfydjexWjVKSapdyMTGpjgjnlvjPIxzwumKrHiQ4KHSkOMuOMiV6DpWTrowZpWlMs4ehPRJAv9BlV3MaHzKQ+t6WWx/udMFkvSOr52Wzq5Hup5oCyEGga002jQshZ1dVkj9rlx5Aa+/9A0sk/QQ47HDPokxCpQ06uDptJaoHVYIaLxGLkCmqbWIYDu72f1CUUZdONZEfTMXXU1FCX3s3yh7+MMuqFdlH6JFbuvcunbROlf0qWvh246x0MNLmq94UUZQZv1LdXHtVQ4QYeuYW0bLDYcG0RM11Im0ADf/P4g5WlGUBBV6dq4XManuYKhRHSLHygVHRiLFAxVskZfqYS2YYRnOcrEDHleiqGV9iyoOqS/iYd0dZc6oeuc6vGLrVh9Gjsva769DyZQWvxzkjGCqcCHL9vrnLmh/+x1mBpyPNFCL2vB6LSmNf9M+ILU/fczceJOTm/3Y1z3DTCBLs3+ALRELTwHGEk5AAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYBAgcE/8QALRAAAgAFAgUCBQUAAAAAAAAAAQIAAwQFERIhBhMxQWFRgQcUIjIzcZKhscH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAAP/xAAfEQACAgIBBQAAAAAAAAAAAAABAgARAwQTIUFRcaH/2gAMAwEAAhEDEQA/AMY4ayt/t41ZHOXr+sC+bKUjWyLqPcwb4dVxf7flR+df7hz+FXyFJa6irm0NDVz59Q0ljVSy4l4Ix03HT+T6wTtYlkNUPMzNQIlC6qArbDzBDiCklUt9uMinMoyJc9gvJOUG/QeO0D9DdyfeKae40U9ykWyoWvegNUZLI+gHGwIyR5x6wuWgXWnNe1hvKpTFsnYyzMyMjCkbHfHX3xgxty8FWmqJVhPVWTcBwc/uBhfvvDlDaSVpuYQxGdWB209gOwEaNhfXUg0YRNrHmqwfkSbZSpTzJDThkADUD9cWk2I1KakqVAUlfs85/wBjrnIqvhVAGYuEGOpgy7bIKqN4lfrP/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUHBgj/xAApEAABAwIFAgYDAAAAAAAAAAABAgMEAAUGERITITFhBxQiQVFxMrHB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgT/xAAdEQACAgMAAwAAAAAAAAAAAAAAAgERAxIhBDFB/9oADAMBAAIRAxEAPwCNyU6UE/FZ8T56i45FYVto5J28wPutWiOmVJaYcdQy26oNqdV0bBOWZ+qs10tEjCmG39EC3CAEtjebYLf55JzPPqPI+OlSLNFS49/pEcP3FNyYX6dDreQUP7TQpFCtWd61364Jcz5y7e5o1STnRer4HWY9jbDOCr3ipx0WaHuNtEBx5aghtBPc/oVb5MK5zfD5Ftl7Xn4rQiubYLiHdHAI6fHPcGqZhmzQrDhqPAtrW3HQ0lfJzKlK5Uon3JpM3GbbUvRqGonPnuabrUC8dunMF4bfF0l77DqFtqAUopOjMjjnp7HigFEZ11yqzQFNtx3I6HGloJWFjPUVdSe9SbEWArA9epavKqbGsgJbXpSMu1JcUUDI/T//2Q==" width="28" height="28" alt="" />
@@ -2386,7 +2393,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     inspirer
-                                    <span class="gh">ranked 7.42k out of 219m repositories</span>
+                                    <span class="gh">ranked 7.42k out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1313 times</div>
                             </div>
@@ -2524,7 +2531,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     maintainer
-                                    <span class="gh">ranked 6.39k out of 219m repositories</span>
+                                    <span class="gh">ranked 6.39k out of 221m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7009 stars</div>
                             </div>
@@ -3019,7 +3026,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2025, 07:08:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2025, 08:45:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
