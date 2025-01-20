@@ -8,9 +8,9 @@
 <!-- 个人资料徽标 -->
 <div align="center">
   <p align="center">
-    <a href="https://langyue.cc">Blog</a>&nbsp;•&nbsp;
+    <a href="https://f2.wiki">Wiki</a>&nbsp;•&nbsp;
     <a href="https://github.com/Johnserf-Seed">GitHub</a>&nbsp;•&nbsp;
-    <a href="https://gitee.com/johnserfseed">Gitee</a>&nbsp;•&nbsp;
+    <a href="https://github.com/TikHub">TikHub.IO</a>&nbsp;•&nbsp;
     <!-- 访客数统计徽标 -->
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fjohnserf-seed%2Fjohnserf-seed.json%3Fcolor%3Dblue" alt="访客统计" />
   </p>
